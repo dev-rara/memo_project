@@ -7,3 +7,4 @@ Simple Memo Project
 * Spring Boot
 * JPA
 * Lombok
+* H2 Database
