@@ -1,6 +1,5 @@
 # memo_project
-Simple Memo Project  
-<br>
+Simple Memo Project  <br>
 
 ## 🛠️Tech Stack
 * HTML/CSS/JS
