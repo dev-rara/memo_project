@@ -2,7 +2,6 @@
 Simple Memo Project  
 <br>
 
-
 ## 🛠️Tech Stack
 * HTML/CSS/JS
 * Thymeleaf
