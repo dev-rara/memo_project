@@ -1,6 +1,7 @@
 # memo_project
-Simple Memo Project
+Simple Memo Project  
 <br>
+
 
 ## 🛠️Tech Stack
 * HTML/CSS/JS
@@ -8,8 +9,7 @@ Simple Memo Project
 * Spring Boot
 * JPA
 * Lombok
-* H2 Database
-<br>
+* H2 Database<br>
 
 ## 💡구현 기능
 * 메인 페이지
