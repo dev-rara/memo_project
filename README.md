@@ -1,7 +1,8 @@
 # memo_project
 Simple Memo Project
+<br>
 
-## Tech Stack
+## 🛠️Tech Stack
 * HTML/CSS/JS
 * Thymeleaf
 * Spring Boot
