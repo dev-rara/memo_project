@@ -5,7 +5,7 @@ Simple Memo Project  <br>
 * HTML/CSS/JS
 * Thymeleaf
 * Spring Boot
-* JPA
+* Spring JPA
 * Lombok
 * H2 Database<br>
 
