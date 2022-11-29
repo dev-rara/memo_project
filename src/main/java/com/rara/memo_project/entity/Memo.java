@@ -1,7 +1,7 @@
 package com.rara.memo_project.entity;
 
 import com.rara.memo_project.dto.MemoRequestDto;
-import javax.persistence.Column;
+import javax.persistence.*;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
